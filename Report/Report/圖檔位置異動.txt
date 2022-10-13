@@ -1,0 +1,5 @@
+1. D槽 通通改成 C槽
+
+2. 簽名暫時放在 C:\Signature1\ (跟APP照片 Signature 分開)
+
+3. Logo 相關放在 C:\DIMAX\images\
